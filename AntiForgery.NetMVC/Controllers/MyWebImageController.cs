@@ -53,9 +53,18 @@ namespace AntiForgery.NetMVC.Controllers
                     watermark = watermark.Save(Server.MapPath("~/images/watermark.jpeg"),imageFormat:"jpeg");
                     image.AddImageWatermark(watermark.FileName, 50, 50, verticalAlign: "Top",horizontalAlign:"Right",opacity:75);
                     break;
+                case "Crop":
+                    image.Crop(0,0,100,100);
+                    break;
                 default:
                     break;
             }
+
+            string savePath = Server.MapPath("~/images/last.jpeg");
+
+            WebImage savedImage = image.Save(savePath,imageFormat:"jpeg");
+            
+
             image.Write();
         }
     }
