@@ -125,6 +125,7 @@
     <Compile Include="Controllers\MyCryptoController.cs" />
     <Compile Include="Controllers\MyWebCacheController.cs" />
     <Compile Include="Controllers\MyWebImageController.cs" />
+    <Compile Include="Controllers\WebMailController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -152,6 +153,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\MyWebImage\Start.cshtml" />
     <Content Include="Views\MyWebCache\Index.cshtml" />
+    <Content Include="Views\WebMail\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
