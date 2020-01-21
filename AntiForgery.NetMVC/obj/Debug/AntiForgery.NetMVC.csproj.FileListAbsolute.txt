@@ -66,3 +66,8 @@ C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\obj\Debu
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\obj\Debug\AntiForgery.NetMVC.csproj.CopyComplete
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\obj\Debug\AntiForgery.NetMVC.dll
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\obj\Debug\AntiForgery.NetMVC.pdb
+C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\Microsoft.Web.Helpers.dll
+C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\WebMatrix.Data.dll
+C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\WebMatrix.WebData.dll
+C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\WebMatrix.Data.xml
+C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\WebMatrix.WebData.xml
