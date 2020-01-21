@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Start</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+    <div class="row">
+        <div class="col-sm-6">
+            <strong>Kaynak</strong><br />
+            <img src="/MyWebImage/Process?p=Original" />
+        </div>
+        <div class="col-sm-6">
+            <strong>Hedef</strong><br />
+            <img src="/MyWebImage/Process?p=@ViewBag.cmd" />
+        </div>
+        <div class="col-sm-12">
+            <hr />
+        </div>
+        <div class="col-sm-6">
+            <a href="/MyWebImage/Start?cmd=Original" class="btn btn-success">Original</a>
+            <a href="/MyWebImage/Start?cmd=RotateLeft" class="btn btn-success">RotateLeft</a>
+            <a href="/MyWebImage/Start?cmd=RotateRight" class="btn btn-success">RotateRight</a>
+            <a href="/MyWebImage/Start?cmd=FlipHorizontal" class="btn btn-success">FlipHorizontal</a>
+            <a href="/MyWebImage/Start?cmd=FlipVertical" class="btn btn-success">FlipVertical</a>
+            <a href="/MyWebImage/Start?cmd=Resize" class="btn btn-success">Resize</a>
+            <a href="/MyWebImage/Start?cmd=AddTextWatermark" class="btn btn-success">AddTextWatermark</a>
+            <a href="/MyWebImage/Start?cmd=AddImageWatermark" class="btn btn-success">AddImageWatermark</a>
+        </div>
+    </div>
+</body>
+</html>
