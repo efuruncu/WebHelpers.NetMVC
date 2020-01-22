@@ -43,6 +43,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FakeData, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FakeData.1.0.0\lib\FakeData.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebHelpers.3.2.7\lib\net45\Microsoft.Web.Helpers.dll</HintPath>
@@ -125,10 +128,12 @@
     <Compile Include="Controllers\MyCryptoController.cs" />
     <Compile Include="Controllers\MyWebCacheController.cs" />
     <Compile Include="Controllers\MyWebImageController.cs" />
+    <Compile Include="Controllers\WebGridController.cs" />
     <Compile Include="Controllers\WebMailController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Kitap.cs" />
     <Compile Include="Models\Veritabani.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -154,6 +159,7 @@
     <Content Include="Views\MyWebImage\Start.cshtml" />
     <Content Include="Views\MyWebCache\Index.cshtml" />
     <Content Include="Views\WebMail\Index.cshtml" />
+    <Content Include="Views\WebGrid\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -62,7 +62,6 @@ C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\Syst
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\System.Web.Helpers.xml
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\System.Web.Mvc.xml
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\obj\Debug\AntiForgery.NetMVC.csprojAssemblyReference.cache
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\obj\Debug\AntiForgery.NetMVC.csproj.CopyComplete
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\obj\Debug\AntiForgery.NetMVC.dll
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\obj\Debug\AntiForgery.NetMVC.pdb
@@ -71,3 +70,5 @@ C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\WebM
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\WebMatrix.WebData.dll
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\WebMatrix.Data.xml
 C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\WebMatrix.WebData.xml
+C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\FakeData.dll
+C:\Users\ElifFuruncu\source\repos\AntiForgery.NetMVC\AntiForgery.NetMVC\bin\FakeData.pdb
